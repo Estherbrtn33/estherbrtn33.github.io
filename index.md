@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Travels
 
-[Maldives](maldives.pjg)
+[Maldives](src=«maldives.jpg»)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
